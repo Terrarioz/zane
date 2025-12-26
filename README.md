@@ -12,6 +12,6 @@ Welcome to my personal website! This project offers a brief introduction to myse
 - Implemented first version animations and pages.
 
 ## Access
-You can visit the website by cloning the project and opening the `index.html` file in your browser. Alternatively, ask for the live link if hosted online.
+You can visit the website by using the link https://zaneyu.me/zane
 
 Thank you for checking out my personal space! Feel free to reach out if you have any feedback or suggestions.
